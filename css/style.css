@@ -12,7 +12,7 @@
             --nav-height: 112.48px;
         }
         section{
-          overflow-x: hidden;
+          overflow: hidden;
         }
 
         .bg-primary
