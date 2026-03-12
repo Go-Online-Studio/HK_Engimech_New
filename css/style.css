@@ -777,6 +777,11 @@ address{
             margin-bottom: 20px;
             flex-grow: 1;
         }
+        .maxPara{
+          max-width: 850px;
+          margin-left: auto;
+          margin-right: auto;
+        }
 
         /* Testimonials */
         .testimonial-card {
