@@ -14,8 +14,6 @@ document.addEventListener("DOMContentLoaded", () => {
 // Load Header and Footer
 function loadHeaderFooter(callback) {
          
- 
-
   document.getElementById("footer").innerHTML = `<div class="container">
         <div class="footWrap defaultPadding">
           <div class="row">
