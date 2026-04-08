@@ -9,7 +9,7 @@
             --dark-card: #25262A;
             --light: #F4F5F7;
             --white: #FFFFFF;
-            --nav-height: 112.48px;
+            --nav-height: 159.95px;
         }
         section{
           overflow: hidden;
@@ -187,15 +187,20 @@
 
 .brandLogo{
   display: inline-block;
-  width: auto;
-  height: 50px;
+  width: 132.50px;
   margin-left: 0 !important;
 }
-.brandLogo img{
-  width: auto;
-  height: 100%;
+.wrapLogoTxt{
+  display: inline-block;
+  width: 100%;
+  container-type: inline-size;
 }
 
+.wrapLogoTxt span{
+  display: inline-block;
+  width: 100%;
+  font-size: 9cqw;
+}
 .topheadContacts{
   display: flex;
   gap: 28px;
