@@ -63,13 +63,13 @@ function loadHeaderFooter(callback) {
               <h5 class="fourthH ">Contact Us</h5>
               <ul class="contact-info">
                 <li>
-                  <a class="locationLink footerLinks" target="_blank" href="https://maps.app.goo.gl/359MgQEPajWTFKhL9">
+                  <a class="locationLink footerLinks" target="_blank" href="https://maps.app.goo.gl/yJmgZ6xKBXuzZrPt8">
                     <span class="iconify" data-icon="fluent:location-12-filled"></span>
                     <A1-TF-25>
 <pre class="mb-0">
-C/107, Natasha Park-2,
-Nizampura, Chhani Rd, Vadodara
-390002, Gujarat</pre>
+Plot No. 80, Durga Industrial Estate,
+Near National Highway 48, Sakarda, 
+Vadodara, Gujarat – 391350</pre>
                   </a>
                 </li>
                 <li>
